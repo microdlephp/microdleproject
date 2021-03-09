@@ -1,2 +1,2 @@
 # microdleproject
-An example of microdle projet used for tutorial.
+An example of microdle projet used for the tutorial.
