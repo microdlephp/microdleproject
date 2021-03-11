@@ -1,0 +1,1 @@
+<?= is_array($this->response) ? json_encode($this->response) : (!empty($this->response) ? $this->response : '{}')?>

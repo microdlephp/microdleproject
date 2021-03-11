@@ -1,0 +1,1 @@
+<?= is_string($this->response) ? $this->response : \print_r($this->response, true)?>

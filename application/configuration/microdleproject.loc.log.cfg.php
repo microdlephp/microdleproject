@@ -1,0 +1,1 @@
+<?php require $_ENV['ROOTS']['configuration'] . '/microdleproject.com.log.cfg.php'?>
